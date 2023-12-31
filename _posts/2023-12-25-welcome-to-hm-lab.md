@@ -4,7 +4,7 @@ title: "Welcome to HM Lab!"
 author: "hmlab"
 categories: documentation
 tags: [documentation,sample]
-image: cuba-1.jpg
+image: hmlab.jpg
 ---
 
 Greetings from the heart of Hoboken's vibrant tech scene! We at HM Lab, a young and passionate startup born in 2023, are thrilled to introduce ourselves and the dynamic solutions we offer.
